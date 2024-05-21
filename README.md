@@ -1,4 +1,4 @@
-# The-Performance-of-Hollywood-Movies-
+# The-Performance-of-Hollywood-Movies
 # 🎬 Hollywood Movies Performance Analysis 📊
 
 ## Project Overview
@@ -56,3 +56,4 @@ The dataset includes various attributes of Hollywood movies such as titles, rele
 
 ## Contributing
 Contributions are welcome.
+https://app.powerbi.com/groups/me/reports/2914069c-0aa7-4246-af37-1ff94f698ad7/ReportSection?experience=power-bi
