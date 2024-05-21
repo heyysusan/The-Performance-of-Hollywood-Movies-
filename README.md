@@ -58,4 +58,4 @@ The dataset includes various attributes of Hollywood movies such as titles, rele
 ![image](https://github.com/heyysusan/The-Performance-of-Hollywood-Movies-/assets/168830084/9612fcff-5cb4-495e-9607-7add43a89c32)
 
 Contributions are welcome.
-### https://app.powerbi.com/groups/me/reports/2914069c-0aa7-4246-af37-1ff94f698ad7/ReportSection?experience=power-bi
+[Link to my dashboard]_( https://app.powerbi.com/groups/me/reports/2914069c-0aa7-4246-af37-1ff94f698ad7/ReportSection?experience=power-bi)
