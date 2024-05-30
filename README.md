@@ -1,4 +1,3 @@
-# The-Performance-of-Hollywood-Movies
 # 🎬 Hollywood Movies Performance Analysis 📊
 
 ## Project Overview
