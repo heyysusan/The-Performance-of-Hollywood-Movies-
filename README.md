@@ -1,5 +1,7 @@
 # 🎬 Hollywood Movies Performance Analysis 📊
 
+Project from Data Technician bootcamp at JustIT. 
+
 ## Project Overview
 This project analyzes the performance of Hollywood movies to uncover trends and insights related to box office revenue, ratings, genres, and more. The analysis was conducted using R for data manipulation and analysis, and Power BI for creating interactive visualizations.
 
